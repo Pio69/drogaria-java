@@ -2,10 +2,6 @@
 
 Projeto web em Java para estudo de cadastro e persistência de dados de uma drogaria. A aplicação utiliza JSF e PrimeFaces na interface, Hibernate no acesso ao banco e MySQL para armazenamento.
 
-## Estado do projeto
-
-O repositório contém modelos e DAOs para entidades como estados, cidades, clientes, fabricantes, produtos, usuários e vendas. Há páginas para alguns desses cadastros; a tela de estados está conectada à operação de salvar. Outras telas e fluxos estão parcialmente implementados e não devem ser considerados um sistema completo de vendas.
-
 ## Tecnologias
 
 - Java 8 e Maven
